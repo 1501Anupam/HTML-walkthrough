@@ -1,0 +1,45 @@
+* {
+    font-family: system-ui;
+    background-color: #d8f5f5;
+    text-align: justify;
+}
+
+p {
+    line-height: 1.5;
+    word-spacing: 0.1em;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: navy;
+    /* text-shadow: 2px 1px 2px black; */
+    ;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: navy;
+    font-size: 18px;
+}
+
+.item {
+    text-decoration: none;
+    color: navy;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.item:hover {
+    color: tomato;
+}
+
+.img-pos {
+    padding: 5px;
+    margin: 2px;
+    width: 313px;
+    height: 300px;
+}
