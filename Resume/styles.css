@@ -6,8 +6,11 @@
 
 .heading {
     color: #fff;
+    text-align: center;
     background: lightskyblue;
     padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1;
 }
 
 .name {
