@@ -1,0 +1,52 @@
+.content-wrapper {
+    width: 80%;
+    margin: 0 auto;
+    min-width: 90px;
+}
+
+.heading {
+    color: #fff;
+    background: lightskyblue;
+    padding: 10px;
+}
+
+.name {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(52, 165, 235);
+    text-transform: uppercase;
+    padding: 3px;
+}
+
+.username {
+    font-size: 14px;
+    font-weight: bold;
+    color: gray;
+}
+
+.user {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    float: right;
+    border: 2px solid steelblue;
+}
+
+.table-wrapper {
+    border: 2px solid steelblue;
+    border-collapse: collapse;
+    padding: 8px 20px;
+    text-align: center;
+}
+
+th.table-wrapper {
+    background-color: lightskyblue;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+strong {
+    color: rgb(52, 165, 235);
+    text-transform: uppercase;
+    padding: 3px;
+}
